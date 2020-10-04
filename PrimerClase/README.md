@@ -14,3 +14,9 @@
 - No te olvides de usar buenos nombres!
   
   - tip: ¿qué rol esta cumpliendo la clase o el parametro?
+
+
+## Resolución
+
+- Se crea un array con las frases en `contestar`.
+- Devuelvo la frase segun la cantidad de veces que se converso con el `Guardia`. Siendo el caso que el numero de veces que se converso sea mayor a las posiciones que tiene el array, devuelvo la ultima frase del array.
