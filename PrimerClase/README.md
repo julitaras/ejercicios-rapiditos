@@ -18,5 +18,5 @@
 
 ## Resolución
 
-- Se crea un array con las frases en `contestar`.
-- Devuelvo la frase segun la cantidad de veces que se converso con el `Guardia`. Siendo el caso que el numero de veces que se converso sea mayor a las posiciones que tiene el array, devuelvo la ultima frase del array.
+- Se crea un array con las frases (siendo un colaborador del GuardiaDeSkyrim) en contestar.
+- Devuelvo la frase segun la cantidad de veces que se converso con el GuardiaDeSkyrim. Siendo el caso que el numero de veces que se converso sea mayor a las posiciones que tiene el array, devuelvo la ultima frase del array.
